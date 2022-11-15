@@ -1,0 +1,32 @@
+#div1{
+    z-index: 10;
+}
+#div2, #div3, #div4, #div5{
+    z-index: 0;
+}
+
+.cards{
+    padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    box-shadow: 10px 10px 10px 15px #88888830;
+    border-radius: 5px;
+    width:200px;
+    margin: 20px;
+}
+.card img{
+    width:200px;
+    object-fit: cover;
+}
+.card p{
+    margin: 0;
+    text-align: center;
+    padding-bottom:10px;
+}
+.card h3{
+    text-align: center;
+    margin:0;
+}
