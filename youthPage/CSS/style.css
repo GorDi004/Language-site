@@ -1,69 +1,10 @@
-body{
-    padding:0;
-    margin: 0;
-    font-family: Arial;
-}
-.header{
-    position:fixed;
-    top:0;
-    width:100%;
-}
-.header1{
-    display:flex;
-    flex-direction: row;
-    justify-content: right;
-    align-items: center;
-    background-color: #f8f8f8 ;
-    color:black;
-    padding:10px;
-}
-.header1 > h5{
-    font-weight: 400;
-    padding: 0 10px;
-    margin: 0;
-    margin-right:20px;
-
-}
-.header1 > img{
-    width:20px;
-    height:20px;
-}
-#user{
-    margin-left: 100px;
-    width: 30px;
-    height:30px;
-}
-
-.header2{
-    display:flex;
-    flex-direction:row;
-    justify-content: space-between;
-    align-items: center;
-    padding:20px;
-    box-shadow: 10px 10px 8px #88888830;
-    background-color: white;
-}
-#logo{
-    width:100px;
-}
-.header2 >ul > li{
-    list-style-type: none;
-    display: inline;
-    justify-content: center;
-    margin-right:10px;
-    margin-bottom: 10px;;
-}
-.button, .shadowButton{
+ .shadowButton{
     display: flex;
     flex-direction: row;
     background-color: #ee7128;
     color:white;
     padding:7px;
 }
-.write{
-    margin-top: 5px;
-}
-
 
 .picture{
     margin-top: 9%;
