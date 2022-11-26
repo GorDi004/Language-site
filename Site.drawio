@@ -1,1 +1,291 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T01:52:24.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="uuWyHhHzMhpL6MP8Wsc4" type="github"><diagram id="O1J6VFe41Zavdmfn6ZaY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-26T02:19:14.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="VLcv57iMQlcbPgvn4nXI" type="github">
+  <diagram id="5eO4QclosRrTi9cStT5A" name="Page-1">
+    <mxGraphModel dx="716" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-1" value="Початок" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="345" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-2" target="RRbJZ-O_4XxGAI22Z_da-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-2" value="Перегляд &quot;Головної сторінки&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="70" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-4" target="RRbJZ-O_4XxGAI22Z_da-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-4" value="Переглянути деталі з &quot;Мовних курсів&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="140" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-9" value="Перегляд посту в телеграм-каналі" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="180" as="sourcePoint" />
+            <mxPoint x="540.39" y="199.95999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-13" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-14" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-17" target="RRbJZ-O_4XxGAI22Z_da-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-17" value="Переглянути деталі про &quot;Унікальну пропозицію&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="240" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="280" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="299.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-22" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="354" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-24" value="Перегляд посту в телеграм-каналі" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-25" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-26" target="RRbJZ-O_4XxGAI22Z_da-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-26" value="Переглянути деталі про &quot;Іспити&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="340" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="380" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="399.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="380" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-29" value="Перегляд посту в телеграм-каналі" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-30" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-32" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-33" target="RRbJZ-O_4XxGAI22Z_da-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-33" value="Перейти на сторінку&lt;br&gt;&quot;Діти&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="440" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="479.9999999999999" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="499.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-35" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="479.9999999999999" as="sourcePoint" />
+            <mxPoint x="540" y="479.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-36" value="Перегляд сторінки &quot;Діти&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-37" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-38" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-47" target="RRbJZ-O_4XxGAI22Z_da-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-47" value="Перейти на сторінку &quot;Молодь&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="540" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="579.9999999999999" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="599.9600000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="579.9999999999999" as="sourcePoint" />
+            <mxPoint x="540" y="579.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-50" value="Перегляд сторінки &quot;Молодь&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-51" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-53" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-54" target="RRbJZ-O_4XxGAI22Z_da-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-54" value="Перейти на сторінку &quot;Дорослі&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="640" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-55" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="679.9999999999999" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="699.9600000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-56" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="679.9999999999999" as="sourcePoint" />
+            <mxPoint x="540" y="679.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-57" value="Перегляд сторінки &quot;Дорослі&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-58" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-60" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="345" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-61" target="RRbJZ-O_4XxGAI22Z_da-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-61" value="Переглянути деталі про &quot;Онлайн&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="740" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="779.9999999999999" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="799.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-63" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="779.9999999999999" as="sourcePoint" />
+            <mxPoint x="540" y="779.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-64" value="Перегляд посту в телеграм-каналі" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-65" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-67" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="345" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-68" target="RRbJZ-O_4XxGAI22Z_da-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-68" value="Переглянути деталі про &quot;Мови&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="840" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-69" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="880" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="899.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-70" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="880" as="sourcePoint" />
+            <mxPoint x="540" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-71" value="Перегляд посту в телеграм-каналі" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-72" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-74" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="345" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-75" value="Переглянути деталі&lt;br&gt;&quot;Про нас&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="940" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-76" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="980" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="999.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-77" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="980" as="sourcePoint" />
+            <mxPoint x="540" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-78" value="Перегляд вмісту на головній сторінці &quot;Наші викладачі&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-79" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-81" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="345" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="RRbJZ-O_4XxGAI22Z_da-82" target="RRbJZ-O_4XxGAI22Z_da-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-82" value="Переглянути деталі&lt;br&gt;&quot;Про нас&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="940" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-83" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;entryX=0.549;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1080" as="sourcePoint" />
+            <mxPoint x="540.3899999999999" y="1099.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-84" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.5" y="1080" as="sourcePoint" />
+            <mxPoint x="540" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-85" value="Перегляд посту в телеграм-каналі" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-20;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-86" value="ТАК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-87" value="Переглянути деталі&lt;br&gt;&quot;Блог&quot;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1040" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RRbJZ-O_4XxGAI22Z_da-89" value="НІ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
