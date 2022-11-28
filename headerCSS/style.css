@@ -67,7 +67,7 @@ body{
 a{
   text-decoration: none;
 }
-a:visited{
+a:visited, a:link{
   color:black;
 }
 a:hover, a:active{

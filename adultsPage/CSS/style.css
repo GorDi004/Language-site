@@ -101,3 +101,13 @@
 .buttons p{
     margin:10px 80px;
 }
+
+#link {
+    text-decoration: none;
+}
+#link:visited{
+    color:rgb(255, 255, 255)!important;
+  }
+  #link:hover, #link:active{
+    color:#000000!important;
+}
